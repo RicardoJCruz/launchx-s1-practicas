@@ -23,20 +23,23 @@ Dentro de su cuenta el administrador puede acceder al dashboard, donde la aplica
 La aplicación maneja el historial de demandas donde el administrador puede acceder a cada demanda y actualizar el proceso de la demanda y agregar comentarios en cada etapa del proceso. La aplicación notifica por correo electrónico al usuario cuando se ha hecho una actualización al proceso de su demanda. 
 
 ## Buyer persona
-![Buyer persona de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/abogabot-buyerpersona.png?raw=true)
+![buyer persona de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/images/abogabot-buyerpersona.png?raw=true)
 
 ## Publico objetivo
-![Publico objetivo de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/abogabot-publicoobjetivo.png?raw=true)
+![publico objetivo de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/images/abogabot-publicoobjetivo.jpg?raw=true)
+Disesñano con Miro
 
 ## Wireframe UX
-![wireframe de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/abogabot-wireframe.png?raw=true)
-Creado con Figma
+![wireframe de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/images/abogabot-wireframe.png?raw=true)
+
+Diseñado con Figma
 
 ## UI
-![user interface de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/abogabot-ui.png?raw=true)
-Creado con Figma
+![user interface de abogabot](https://github.com/RicardoJCruz/launchx-s1-practicas/blob/main/images/abogabot-ui.png?raw=true)
 
-### Fuentes las imagenes
+Diseñado con Figma
+
+### Creditos de imagenes
 Icono del logo, imagen rasterizada y vectores del menú princial: Freepik.com. La página de menu principal del UI utiliza imágenes de Freepik.com
 
 Las siguientes imagenes de Unsplash son utilizadas:
